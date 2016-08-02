@@ -43,6 +43,12 @@ For Python 2
 
   open up Node.js command prompt and type in 
   >npm install -g react-native-cli
+  
+  Next up: Download and install [Android Studio](https://developer.android.com/studio/install.html) 
+  Make sure you have java runtime or JDK available, version greater than 1.8
+  
+  If you dn't have download [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+  select the appropriate Operating System, (Window) with correct bit system x86 (32 bits) or x64 (64 bits)  
 
 Testing React Native Installation:
 
@@ -53,6 +59,11 @@ Use the React Native command line tools to generate a new React Native project c
     > react-native run-android
     
   
-  
+## References 
+
+1. https://facebook.github.io/react-native/docs/getting-started.html#content
+2. https://developer.android.com/studio/install.html
+3. http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+4. https://chocolatey.org/install
 
 
