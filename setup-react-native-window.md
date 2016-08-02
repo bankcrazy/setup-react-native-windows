@@ -48,7 +48,9 @@ For Python 2
   Make sure you have java runtime or JDK available, version greater than 1.8
   
   If you dn't have download [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-  select the appropriate Operating System, (Window) with correct bit system x86 (32 bits) or x64 (64 bits)  
+  select the appropriate Operating System, 
+  
+  (Window) with correct bit system x86 (32 bits) or x64 (64 bits)  
 
 Testing React Native Installation:
 
