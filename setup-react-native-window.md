@@ -54,10 +54,10 @@ For Python 2
 
 Testing React Native Installation:
 
-Use the React Native command line tools to generate a new React Native project called "Test Project", then run react-native run-android inside the newly created folder.
+Use the React Native command line tools to generate a new React Native project called "TestProject", then run react-native run-android inside the newly created folder.
   
-    > react-native init AwesomeProject
-    > cd AwesomeProject
+    > react-native init TestProject
+    > cd TestProject
     > react-native run-android
     
   
